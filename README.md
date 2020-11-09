@@ -9,8 +9,16 @@ This is a **practice project** built with [React][2], [create-react-app][3], [Bo
 
  - Project inspired by [React - La Guía Completa: Hooks Context Redux MERN + 15 Apps][1].
  - You can see the reference project [clicking here][7]
+ 
+ -----
+ 
+ #### Known bugs
+ 
+  - Search **ignores** ingredient:
+    - The API does not support filtering by ingredient and category simultaneously, this is a mistake in the tutorial that I discovered after finishing it.
+      Since this is just an exercice I don't plan on fixing it. 
 
- [0]: https://emiliano-ruiz.github.io/cocktail-recipes/
+ [0]: https://eruizc-dev.github.io/cocktail-recipes/
  [1]: https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/
  [2]: https://reactjs.org/
  [3]: https://github.com/facebook/create-react-app
